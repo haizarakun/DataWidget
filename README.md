@@ -80,7 +80,7 @@ docomo / ahamo など日本の主要キャリア・MVNOの「残りデータ量�
 
 ## インストール方法
 
-Google Play非公開のため、APKを直接インストールする。
+Google Play非公開のため、APKを直接インストール
 
 ### 初回インストール
 
@@ -92,7 +92,7 @@ Google Play非公開のため、APKを直接インストールする。
 
 ### アップデート
 
-固定の署名鍵で継続配布しているため、[Releases](https://github.com/haizarakun/DataWidget/releases) から新しいAPKをダウンロードしてそのままインストールするだけでよい。アンインストールは不要で、プロファイル設定もそのまま引き継がれる。
+固定の署名鍵で継続配布しているため、[Releases](https://github.com/haizarakun/DataWidget/releases) から新しいAPKをダウンロードしてそのままインストールするだけ。アンインストールは不要で、プロファイル設定もそのまま引き継がれる。
 
 ## 免責
 
