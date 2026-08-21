@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31312275/README.md)
 # DataWidget（回線残量ウィジェット）
 
 docomo / ahamo など日本の主要キャリア・MVNOの「残りデータ量」を、キャリア公式アプリを開かずホーム画面ウィジェットで確認できるAndroidアプリ。
